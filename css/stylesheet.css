@@ -24,6 +24,12 @@
 
 		}
 
+		a:hover{
+			text-decoration: none;
+			color: grey;
+
+		}
+
 		/*#photo{
 			height: 350px;
 		}*/
