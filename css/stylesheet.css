@@ -69,11 +69,12 @@
 		}
 
 		.btn{
+			background-color: #999999;
 			margin:0px 0%;
 		}
 
 		.btn:hover {
-			background-color: grey;
+			background-color: #c1f0f7;
 		}
 
 		#thank{
